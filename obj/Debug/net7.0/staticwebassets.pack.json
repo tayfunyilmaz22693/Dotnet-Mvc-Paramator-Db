@@ -1,0 +1,1349 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\occupy.bundle.scp.css",
+      "PackagePath": "staticwebassets\\occupy.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\.DS_Store",
+      "PackagePath": "staticwebassets\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\.DS_Store",
+      "PackagePath": "staticwebassets\\Occupy-doc\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\_DS_Store",
+      "PackagePath": "staticwebassets\\Occupy-doc"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\css\\_DS_Store",
+      "PackagePath": "staticwebassets\\Occupy-doc\\css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\css\\main.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\css\\normalize.min.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\css\\normalize.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Occupy-doc\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\fonts\\_DS_Store",
+      "PackagePath": "staticwebassets\\Occupy-doc\\fonts"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Occupy-doc\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Occupy-doc\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Occupy-doc\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Occupy-doc\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Occupy-doc\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\index.html",
+      "PackagePath": "staticwebassets\\Occupy-doc\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\js\\_DS_Store",
+      "PackagePath": "staticwebassets\\Occupy-doc\\js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\_DS_Store",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shAutoloader.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shAutoloader.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushAS3.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushAS3.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushBash.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushBash.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushCSharp.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushCSharp.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushCpp.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushCpp.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushCss.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushCss.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushDelphi.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushDelphi.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushDiff.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushDiff.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushErlang.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushErlang.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushGroovy.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushGroovy.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushJava.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushJava.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushPerl.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushPerl.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushPhp.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushPhp.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushPlain.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushPlain.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushPython.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushPython.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushRuby.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushRuby.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushSass.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushSass.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushScala.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushScala.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushSql.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushSql.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushVb.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushVb.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shCore.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shCore.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\scripts\\shLegacy.js",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\scripts\\shLegacy.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\styles\\shCoreDefault.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\styles\\shCoreDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\styles\\shCoreDjango.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\styles\\shCoreDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\styles\\shCoreEclipse.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\styles\\shCoreEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\styles\\shCoreEmacs.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\styles\\shCoreEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\styles\\shCoreMDUltra.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\styles\\shCoreMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\styles\\shCoreRDark.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\styles\\shCoreRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\styles\\shThemeDefault.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\styles\\shThemeDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\styles\\shThemeDjango.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\styles\\shThemeDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\styles\\shThemeEclipse.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\styles\\shThemeEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\styles\\shThemeEmacs.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\styles\\shThemeEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\styles\\shThemeMDUltra.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\styles\\shThemeMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\styles\\shThemeMidnight.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\styles\\shThemeMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\Occupy-doc\\syntax-highlighter\\styles\\shThemeRDark.css",
+      "PackagePath": "staticwebassets\\Occupy-doc\\syntax-highlighter\\styles\\shThemeRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\about-us.html",
+      "PackagePath": "staticwebassets\\about-us.html"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\blog.html",
+      "PackagePath": "staticwebassets\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_about.css",
+      "PackagePath": "staticwebassets\\css\\_about.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_about.css.map",
+      "PackagePath": "staticwebassets\\css\\_about.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_clients.css",
+      "PackagePath": "staticwebassets\\css\\_clients.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_clients.css.map",
+      "PackagePath": "staticwebassets\\css\\_clients.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_feature.css",
+      "PackagePath": "staticwebassets\\css\\_feature.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_feature.css.map",
+      "PackagePath": "staticwebassets\\css\\_feature.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_footer.css",
+      "PackagePath": "staticwebassets\\css\\_footer.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_footer.css.map",
+      "PackagePath": "staticwebassets\\css\\_footer.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_price.css",
+      "PackagePath": "staticwebassets\\css\\_price.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_price.css.map",
+      "PackagePath": "staticwebassets\\css\\_price.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_project.css",
+      "PackagePath": "staticwebassets\\css\\_project.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_project.css.map",
+      "PackagePath": "staticwebassets\\css\\_project.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_projects.css",
+      "PackagePath": "staticwebassets\\css\\_projects.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_projects.css.map",
+      "PackagePath": "staticwebassets\\css\\_projects.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_service.css",
+      "PackagePath": "staticwebassets\\css\\_service.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_service.css.map",
+      "PackagePath": "staticwebassets\\css\\_service.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_slider.css",
+      "PackagePath": "staticwebassets\\css\\_slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_slider.css.map",
+      "PackagePath": "staticwebassets\\css\\_slider.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_team.css",
+      "PackagePath": "staticwebassets\\css\\_team.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_team.css.map",
+      "PackagePath": "staticwebassets\\css\\_team.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_testimonials.css",
+      "PackagePath": "staticwebassets\\css\\_testimonials.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_testimonials.css.map",
+      "PackagePath": "staticwebassets\\css\\_testimonials.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_video.css",
+      "PackagePath": "staticwebassets\\css\\_video.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\_video.css.map",
+      "PackagePath": "staticwebassets\\css\\_video.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\breadcrumb.css",
+      "PackagePath": "staticwebassets\\css\\breadcrumb.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\breadcrumb.css.map",
+      "PackagePath": "staticwebassets\\css\\breadcrumb.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\elements.html",
+      "PackagePath": "staticwebassets\\elements.html"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\banner\\banner.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\banner\\home-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\home-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\add.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\c1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\c2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\c3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\c4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\c5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\c6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\causes\\causes-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\causes\\causes-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\causes\\causes-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\causes\\causes-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\causes\\causes-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\causes\\causes-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\home-blog\\home-blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\home-blog\\home-blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\home-blog\\home-blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\home-blog\\home-blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\home-blog\\home-blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\home-blog\\home-blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\main-blog\\m-blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\main-blog\\m-blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\main-blog\\m-blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\main-blog\\m-blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\main-blog\\m-blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\popular-post\\post1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\popular-post\\post2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\popular-post\\post3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\popular-post\\post4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\_DS_Store",
+      "PackagePath": "staticwebassets\\img\\elements"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\user1.png",
+      "PackagePath": "staticwebassets\\img\\elements\\user1.png"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\elements\\user2.png",
+      "PackagePath": "staticwebassets\\img\\elements\\user2.png"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\home-blog\\h-blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\home-blog\\h-blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\home-blog\\h-blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\home-blog\\h-blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\home-blog\\h-blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\home-blog\\h-blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\home-blog\\h-blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\home-blog\\h-blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\icon\\f-icon-1.png",
+      "PackagePath": "staticwebassets\\img\\icon\\f-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\icon\\f-icon-2.png",
+      "PackagePath": "staticwebassets\\img\\icon\\f-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\icon\\f-icon-3.png",
+      "PackagePath": "staticwebassets\\img\\icon\\f-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\icon\\video-icon-1.png",
+      "PackagePath": "staticwebassets\\img\\icon\\video-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\instagram\\Image-01.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\instagram\\Image-02.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\instagram\\Image-03.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\instagram\\Image-04.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\instagram\\Image-05.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\instagram\\Image-06.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\instagram\\Image-07.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\instagram\\Image-08.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\loggoo.jpg",
+      "PackagePath": "staticwebassets\\img\\loggoo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\mission-1.jpg",
+      "PackagePath": "staticwebassets\\img\\mission-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\project-details-1.jpg",
+      "PackagePath": "staticwebassets\\img\\project-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\project\\project-1.jpg",
+      "PackagePath": "staticwebassets\\img\\project\\project-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\project\\project-2.jpg",
+      "PackagePath": "staticwebassets\\img\\project\\project-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\project\\project-3.jpg",
+      "PackagePath": "staticwebassets\\img\\project\\project-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\project\\project-4.jpg",
+      "PackagePath": "staticwebassets\\img\\project\\project-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\project\\project-5.jpg",
+      "PackagePath": "staticwebassets\\img\\project\\project-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\project\\project-6.jpg",
+      "PackagePath": "staticwebassets\\img\\project\\project-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\slider\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\slider\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\success-1.jpg",
+      "PackagePath": "staticwebassets\\img\\success-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\success-2.jpg",
+      "PackagePath": "staticwebassets\\img\\success-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\team\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\img\\team\\team-overlay.png",
+      "PackagePath": "staticwebassets\\img\\team\\team-overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\js\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\js\\stellar.js",
+      "PackagePath": "staticwebassets\\js\\stellar.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\portfolio-details.html",
+      "PackagePath": "staticwebassets\\portfolio-details.html"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\portfolio.html",
+      "PackagePath": "staticwebassets\\portfolio.html"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\scss\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\scss\\_button.scss",
+      "PackagePath": "staticwebassets\\scss\\_button.scss"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\scss\\_feature.scss",
+      "PackagePath": "staticwebassets\\scss\\_feature.scss"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\scss\\_predefine.scss",
+      "PackagePath": "staticwebassets\\scss\\_predefine.scss"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\scss\\_project.scss",
+      "PackagePath": "staticwebassets\\scss\\_project.scss"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\scss\\_slider.scss",
+      "PackagePath": "staticwebassets\\scss\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\scss\\_team.scss",
+      "PackagePath": "staticwebassets\\scss\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\scss\\breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\service.html",
+      "PackagePath": "staticwebassets\\service.html"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\single-blog.html",
+      "PackagePath": "staticwebassets\\single-blog.html"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\uploads\\files\\icon\\favicon.png",
+      "PackagePath": "staticwebassets\\uploads\\files\\icon\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\animate-css\\animate.css",
+      "PackagePath": "staticwebassets\\vendors\\animate-css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\animate-css\\wow.min.js",
+      "PackagePath": "staticwebassets\\vendors\\animate-css\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-datepicker\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\bootstrap-datepicker\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-datepicker\\bootstrap-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\bootstrap-datepicker\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap-datepicker\\bootstrap-select.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\counter-up\\jquery.counterup.js",
+      "PackagePath": "staticwebassets\\vendors\\counter-up\\jquery.counterup.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\counter-up\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\vendors\\counter-up\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\isotope\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendors\\isotope\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\isotope\\isotope-min.js",
+      "PackagePath": "staticwebassets\\vendors\\isotope\\isotope-min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\jquery-ui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\vendors\\jquery-ui\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\jquery-ui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\vendors\\jquery-ui\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\lightbox\\simpleLightbox.css",
+      "PackagePath": "staticwebassets\\vendors\\lightbox\\simpleLightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\lightbox\\simpleLightbox.min.js",
+      "PackagePath": "staticwebassets\\vendors\\lightbox\\simpleLightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\linericon\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\vendors\\linericon\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\linericon\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\vendors\\linericon\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\linericon\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\vendors\\linericon\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\linericon\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\vendors\\linericon\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\linericon\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\vendors\\linericon\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\linericon\\style.css",
+      "PackagePath": "staticwebassets\\vendors\\linericon\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\nice-select\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\vendors\\nice-select\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\nice-select\\css\\style.css",
+      "PackagePath": "staticwebassets\\vendors\\nice-select\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\nice-select\\js\\jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\vendors\\nice-select\\js\\jquery.nice-select.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\nice-select\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\vendors\\nice-select\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\owl-carousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\vendors\\owl-carousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\owl-carousel\\assets\\animated.css",
+      "PackagePath": "staticwebassets\\vendors\\owl-carousel\\assets\\animated.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\owl-carousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\vendors\\owl-carousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\owl-carousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\vendors\\owl-carousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\vendors\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\popup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\vendors\\popup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\popup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\vendors\\popup\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\scroll\\jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets\\vendors\\scroll\\jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\swiper\\css\\swiper.min.css",
+      "PackagePath": "staticwebassets\\vendors\\swiper\\css\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tayfun\\Desktop\\occupy\\wwwroot\\vendors\\swiper\\js\\swiper.min.js",
+      "PackagePath": "staticwebassets\\vendors\\swiper\\js\\swiper.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.occupy.props",
+      "PackagePath": "build\\occupy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.occupy.props",
+      "PackagePath": "buildMultiTargeting\\occupy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.occupy.props",
+      "PackagePath": "buildTransitive\\occupy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.occupy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

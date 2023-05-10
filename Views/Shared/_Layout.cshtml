@@ -1,0 +1,15 @@
+﻿<!doctype html>
+<html lang="en">
+
+@{await Html.RenderPartialAsync("_Head");}
+
+<body>
+@{await Html.RenderPartialAsync("_Header");}
+
+@RenderBody()
+@{await Html.RenderPartialAsync("_Footer");}
+@{await Html.RenderPartialAsync("_Scripts");}
+
+</body>
+
+</html>

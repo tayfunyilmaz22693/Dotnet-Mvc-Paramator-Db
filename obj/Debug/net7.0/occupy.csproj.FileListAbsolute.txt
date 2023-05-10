@@ -1,0 +1,108 @@
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\appsettings.Development.json
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\appsettings.json
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\occupy.staticwebassets.runtime.json
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\occupy.exe
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\occupy.deps.json
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\occupy.runtimeconfig.json
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\occupy.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\occupy.pdb
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\Humanizer.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\MySqlConnector.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\System.CodeDom.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\System.Text.Json.dll
+C:\Dev\Asp.NET Core\occupy\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\occupy.csproj.AssemblyReference.cache
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\occupy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\occupy.AssemblyInfoInputs.cache
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\occupy.AssemblyInfo.cs
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\occupy.csproj.CoreCompileInputs.cache
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\occupy.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\occupy.RazorAssemblyInfo.cache
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\occupy.RazorAssemblyInfo.cs
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\staticwebassets\msbuild.occupy.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\staticwebassets\msbuild.build.occupy.props
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.occupy.props
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.occupy.props
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\staticwebassets.build.json
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\staticwebassets.development.json
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\scopedcss\bundle\occupy.styles.css
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\scopedcss\projectbundle\occupy.bundle.scp.css
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\occupy.csproj.CopyComplete
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\occupy.dll
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\refint\occupy.dll
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\occupy.pdb
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\occupy.genruntimeconfig.cache
+C:\Dev\Asp.NET Core\occupy\obj\Debug\net7.0\ref\occupy.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\appsettings.json
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\occupy.staticwebassets.runtime.json
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\occupy.exe
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\occupy.deps.json
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\occupy.runtimeconfig.json
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\occupy.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\occupy.pdb
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Tayfun\Desktop\occupy\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\occupy.csproj.AssemblyReference.cache
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\occupy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\occupy.AssemblyInfoInputs.cache
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\occupy.AssemblyInfo.cs
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\occupy.csproj.CoreCompileInputs.cache
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\occupy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\occupy.RazorAssemblyInfo.cache
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\occupy.RazorAssemblyInfo.cs
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\staticwebassets\msbuild.occupy.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\staticwebassets\msbuild.build.occupy.props
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.occupy.props
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.occupy.props
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\scopedcss\bundle\occupy.styles.css
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\scopedcss\projectbundle\occupy.bundle.scp.css
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\occupy.csproj.CopyComplete
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\occupy.dll
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\refint\occupy.dll
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\occupy.pdb
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\occupy.genruntimeconfig.cache
+C:\Users\Tayfun\Desktop\occupy\obj\Debug\net7.0\ref\occupy.dll
